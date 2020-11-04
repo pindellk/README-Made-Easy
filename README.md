@@ -29,7 +29,11 @@ npm i
 
 ## Usage
 
-This repository contains the JavaScript and package.JSON file needed to run the app in the command line
+To prompt inquirer, run the following command:
+
+```
+node index.js
+```
 
 ## License
 
@@ -37,7 +41,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-Feel free to submit bugs and feature requests to help improve this application
+Feel free to reach out about bugs or issues
 
 ## Tests
 
